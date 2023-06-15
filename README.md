@@ -1,6 +1,6 @@
 # FE Demo App
 
-This project was bootstrapped with `create-react-app`. Project can be served locally with `npm start` and the test suite run with `npm test`.
+This project was bootstrapped with `create-react-app`. Install dependencies with `npm ci`, then the project can be served locally with `npm start` and the test suite run with `npm test`.
 
 # Notes
 
