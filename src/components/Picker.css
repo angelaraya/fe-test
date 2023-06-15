@@ -1,0 +1,17 @@
+
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 0.7rem;
+}
+
+.in-list-btn {
+    border-color: #a4a099;
+    border-width: 1px;
+    height: 3rem;
+    background-color: white;
+    width: 33.3%;
+    /*Needed so that the borders do not duplicate*/
+    margin-left: -1px;
+    margin-right: -1px;
+}
